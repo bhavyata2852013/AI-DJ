@@ -1,0 +1,40 @@
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+
+.heading{
+    width: 100%;
+    font-size: 35px;
+    margin: 0px;
+    font-family: 'Delicious Handrawn', cursive;
+    letter-spacing: 2px;
+}
+
+.note{
+font-size: 20px;
+color: black;
+letter-spacing: 2px;
+}
+
+body{
+    background-size: cover;
+}
+
+button{
+    width: 10%;
+    font-size: 25px;
+}
+
+canvas{
+    border: 10px ridge midnightblue;
+    margin-top: 10px;
+}
